@@ -6,7 +6,7 @@ Senior Full Stack Developer with 14+ years of experience building web applicatio
 
 | When | Role | Where |
 | --- | --- | --- |
-| 2025 – present | Full Stack Developer | Independent |
+| 2025 – present | Senior Full Stack Developer | Independent |
 | 2025 – present | Full Stack Web Development Professor | CETP-UTU |
 | 2025 – 2026 | Senior Full Stack Developer | Solcre |
 | 2023 – 2024 | IT Director | Entravision Latam |
