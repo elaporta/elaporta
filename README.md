@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Emanuel 👋
 
-<!--
-**elaporta/elaporta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer with 14+ years of experience building web applications, APIs, integrations, and cloud solutions. Based in Montevideo, Uruguay.
 
-Here are some ideas to get you started:
+### Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Freelance Full Stack Developer — 2025–present
+- Full Stack Web Development Professor at CETP-UTU
+
+### Tech I work with
+
+TypeScript · Angular · React · Node.js · PHP/Laravel · Python/FastAPI · AWS · MySQL · Redis
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/elaporta)
